@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestDay3" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-20T00:16:02" hostname="codespaces-56e729" time="0.041">
+<testsuite name="com.example.project.TestDay3" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-06T23:45:04" hostname="codespaces-56e729" time="0.03">
   <properties/>
-  <testcase name="testGenerateSnowflakeDesign()" classname="com.example.project.TestDay3" time="0.025"/>
-  <testcase name="testGenerateSnowflakeSmallSize()" classname="com.example.project.TestDay3" time="0.005"/>
-  <testcase name="testGenerateSnowflakeOddSize()" classname="com.example.project.TestDay3" time="0.008"/>
+  <testcase name="testGenerateSnowflakeDesign()" classname="com.example.project.TestDay3" time="0.018"/>
+  <testcase name="testGenerateSnowflakeSmallSize()" classname="com.example.project.TestDay3" time="0.003"/>
+  <testcase name="testGenerateSnowflakeOddSize()" classname="com.example.project.TestDay3" time="0.006"/>
   <system-out><![CDATA[true
 false
 false
